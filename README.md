@@ -119,7 +119,7 @@ To run the project, execute the following command:
 - Twitter: [@ChandanGuptaDev](https://twitter.com/ChandanGuptaDev)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/chandangupta-devs/)
 
-- 👤 **Helina Abebe**
+👤 **Helina Abebe**
 
 - GitHub: [@helina42](https://github.com/helina42)
 
