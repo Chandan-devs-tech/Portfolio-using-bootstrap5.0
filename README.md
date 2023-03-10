@@ -21,22 +21,21 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  <!-- - [Run tests](#run-tests) -->
-  <!-- - [Deployment](#triangular_flag_on_post-deployment) -->
+    <!-- - [Run tests](#run-tests) -->
+    <!-- - [Deployment](#triangular_flag_on_post-deployment) -->
 - [👥 Authors](#authors)
-<!-- - [🔭 Future Features](#future-features) -->
-<!-- - [🤝 Contributing](#contributing) -->
-<!-- - [⭐️ Show your support](#support) -->
-<!-- - [🙏 Acknowledgements](#acknowledgements) -->
-<!-- - [❓ FAQ (OPTIONAL)](#faq) -->
+  <!-- - [🔭 Future Features](#future-features) -->
+  <!-- - [🤝 Contributing](#contributing) -->
+  <!-- - [⭐️ Show your support](#support) -->
+  <!-- - [🙏 Acknowledgements](#acknowledgements) -->
+  <!-- - [❓ FAQ (OPTIONAL)](#faq) -->
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 [Portfolio Using Bootstrap] <a name="about-project"></a>
 
-
-**[Portfolio Using Bootstrap]**  Using Bootstrap framework to create a new website from scratch created a prototype of the portfolio website.
+**[Portfolio Using Bootstrap]** Using Bootstrap framework to create a new website from scratch created a prototype of the portfolio website.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -64,7 +63,6 @@
 - [Bootstrap forms components](https://getbootstrap.com/docs/5.0/forms/overview/) to create the contact form.
 - [the grid system](https://getbootstrap.com/docs/5.0/layout/grid/) to place elements inline with others.
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
@@ -72,6 +70,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
+
 - [Live Demo Link](https://chandan-devs-tech.github.io/Portfolio-using-bootstrap5.0/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -93,12 +92,11 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-  cd my-folder
-  git clone:https://chandan-devs-tech.github.io/Portfolio-Using-Bootstrap/
-  
-  cd my-folder
-  git clone:https://github.com/helina42/Portfolio-using-bootstrap.git
+cd my-folder
+git clone:https://github.com/Chandan-devs-tech/Portfolio-using-bootstrap5.0.git
 
+cd my-folder
+git clone:https://github.com/helina42/Portfolio-using-bootstrap.git
 
 ### Usage
 
@@ -117,14 +115,13 @@ To run the project, execute the following command:
 
 👤 **Chandan Gupta**
 
-- GitHub: [@githubhandle](https://github.com/Chandan-devs-tech)
-- Twitter: [@twitterhandle](https://twitter.com/ChandanGuptaDev)
+- GitHub: [@Chandan-devs-tech](https://github.com/Chandan-devs-tech)
+- Twitter: [@ChandanGuptaDev](https://twitter.com/ChandanGuptaDev)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/chandangupta-devs/)
 
 - 👤 **Helina Abebe**
 
 - GitHub: [@helina42](https://github.com/helina42)
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
