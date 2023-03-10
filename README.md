@@ -72,7 +72,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 > Add a link to your deployed project.
-- [Live Demo Link]()
+- [Live Demo Link](https://chandan-devs-tech.github.io/Portfolio-using-bootstrap5.0/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,10 +94,10 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
   cd my-folder
-  git clone: https://chandan-devs-tech.github.io/Portfolio-Using-Bootstrap/
+  git clone:https://chandan-devs-tech.github.io/Portfolio-Using-Bootstrap/
   
   cd my-folder
-  git clone :https://github.com/helina42/Portfolio-using-bootstrap.git
+  git clone:https://github.com/helina42/Portfolio-using-bootstrap.git
 
 
 ### Usage
