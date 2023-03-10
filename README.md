@@ -130,4 +130,3 @@ To run the project, execute the following command:
 This project is [MIT](https://github.com/Chandan-devs-tech/Portfolio-Using-Bootstrap/blob/feature/using-bootstrap/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-Footer
